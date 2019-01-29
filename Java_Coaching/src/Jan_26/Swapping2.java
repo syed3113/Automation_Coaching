@@ -3,6 +3,7 @@ package Jan_26;
 import java.util.Scanner;
 
 //SWAPPING OF TWO NUMBERS WITHOUTUSING THIRD VARIABLE
+
 public class Swapping2 {
 	
 	public static void main(String[] args) {
