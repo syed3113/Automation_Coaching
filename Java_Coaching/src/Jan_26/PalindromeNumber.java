@@ -10,7 +10,7 @@ public class PalindromeNumber {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Please enter minimum two digit number");
 		int num = s.nextInt();
-		System.out.println("Enter Number is :- "+num);
+		System.out.println("Entered Number is :- "+num);
 		int temp=num;
 		while(num>0)
 		{
