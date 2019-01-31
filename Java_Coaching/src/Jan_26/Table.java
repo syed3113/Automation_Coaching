@@ -1,7 +1,7 @@
 package Jan_26;
 
 import java.util.Scanner;
-
+//Print a table
 public class Table {
 
 	public static void main(String[] args) {
