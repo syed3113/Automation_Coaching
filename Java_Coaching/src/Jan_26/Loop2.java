@@ -16,7 +16,7 @@ public class Loop2 {
 			
 			for(int col=5;col>=row;col--)
 			{
-				System.out.print("*");
+				System.out.print("*"+" ");
 			}
 			System.out.println(" ");
 		}
