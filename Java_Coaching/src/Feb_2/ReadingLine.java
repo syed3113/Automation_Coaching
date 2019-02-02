@@ -14,7 +14,7 @@ public class ReadingLine {
 		
 	File f = new File("C:\\Users\\Sadia Shah\\Desktop\\inputFile.txt");
 	FileReader fr = new FileReader(f);
-	BufferedReader br = new BufferedReader(fr);
+	BufferedReader br = new BufferedReader(fr);// BufferedReader need object of File Reader
 	String s;
 	
 	while((s=br.readLine())!=null)
