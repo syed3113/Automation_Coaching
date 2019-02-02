@@ -39,10 +39,10 @@ public class ReadWriteFile {
 	public static void main(String[] args) throws IOException {
 		
 		ReadWriteFile wf = new ReadWriteFile();
-		String value = wf.data_read("C:\\Users\\Mobiles\\Desktop\\outFile.txt");
+		String value = wf.data_read("C:\\Users\\Sadia Shah\\Desktop\\outFile.txt");
 		System.out.println("Value:-"+value);
 		ReadWriteFile wf1 = new ReadWriteFile();
-		wf1.data_write("C:\\Users\\Mobiles\\Desktop\\readWrite.txt",value);
+		wf1.data_write("C:\\Users\\Sadia Shah\\Desktop\\readWrite.txt",value);
 		
 		
 	}
