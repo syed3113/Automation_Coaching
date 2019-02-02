@@ -1,4 +1,4 @@
-package Jan_26;
+package Jan_26_Class6;
 
 import java.util.Scanner;
 

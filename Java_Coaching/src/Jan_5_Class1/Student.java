@@ -1,4 +1,4 @@
-package Jan_5;
+package Jan_5_Class1;
 
 public class Student {
 
