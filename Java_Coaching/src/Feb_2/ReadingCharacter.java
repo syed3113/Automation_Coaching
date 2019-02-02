@@ -1,4 +1,4 @@
-package Feb_26;
+package Feb_2;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -16,7 +16,7 @@ public class ReadingCharacter {
 		int r;
 		while((r=fr.read())!=-1) //storing in r because return type is int & comparing with -1 because there is no ASCII value equal -1
 		{
-			System.out.println((char)r);
+			System.out.println((char)r);// Explicit Conversion because we are getting result in integer and to convert it into character we need to do explicit conversion  
 		}
 			
 			
